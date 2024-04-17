@@ -1,5 +1,6 @@
 # Ingredients
-- avocado   $4
-- lemon     $5
-- salt      $10
+- avocado
+- lime
+- salt
 # Instructions
+- put one avocado into a bowl.
